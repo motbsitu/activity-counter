@@ -1,0 +1,16 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "httpster -d ./dist -p 3000"
+  },
+  "author": "JS Mike",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.2.2",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0"
+  }
+}
